@@ -5,8 +5,7 @@ A browser extension that shows your Claude.ai usage — session, weekly limits, 
 [![Install on Edge Add-ons](https://img.shields.io/badge/Edge-Install-blue)](https://microsoftedge.microsoft.com/addons/detail/bofieddolapfocplbondjcfkgaofdalk)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
-<img width="1672" height="941" alt="ChatGPT Image Sep 21, 2026, 05_08_21 PM" src="https://github.com/user-attachments/assets/e73c98ca-1ffe-461c-b553-76448f3972d8" />
-
+<img width="1280" height="800" alt="Claude_Usage_Insights_v2_1280x800" src="https://github.com/user-attachments/assets/43bb4ace-da8c-4e19-8cd3-777b3fb1112d" />
 
 
 ## Why this exists
