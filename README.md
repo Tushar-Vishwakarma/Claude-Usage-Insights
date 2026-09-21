@@ -1,7 +1,5 @@
 # Claude-Usage-Insights
 
-# Claude Usage Insights
-
 A browser extension that shows your Claude.ai usage — session, weekly limits, and usage analytics — right where you're already working, with no separate dashboard to check.
 
 [![Install on Edge Add-ons](https://img.shields.io/badge/Edge-Install-blue)](YOUR_EDGE_STORE_LINK_HERE)
