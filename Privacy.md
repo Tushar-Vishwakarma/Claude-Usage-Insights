@@ -23,7 +23,7 @@ Nowhere. All processing happens locally in your browser. Any usage information t
 
 ## Permissions
 
-The extension requests only the permissions required to read usage data from `claude.ai` and, if applicable, to store your usage history locally in your own browser for the analytics view. [Update this line to match your exact manifest permissions.]
+The extension requests the `storage` permission (to save your usage history locally in your own browser for the analytics view) and host permission for `https://claude.ai/*` (to read your usage data). No other permissions are requested.
 
 ## Open source
 
