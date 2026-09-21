@@ -5,7 +5,9 @@ A browser extension that shows your Claude.ai usage — session, weekly limits, 
 [![Install on Edge Add-ons](https://img.shields.io/badge/Edge-Install-blue)](YOUR_EDGE_STORE_LINK_HERE)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
-![Screenshot](docs/screenshot.png)
+<img width="1672" height="941" alt="ChatGPT Image Sep 21, 2026, 05_08_21 PM" src="https://github.com/user-attachments/assets/e73c98ca-1ffe-461c-b553-76448f3972d8" />
+
+
 
 ## Why this exists
 
@@ -15,7 +17,7 @@ Most Claude usage extensions only show you a live snapshot — a bar that says h
 
 - **Live session usage** — 5-hour rolling window, with reset countdown
 - **Live weekly usage** — 7-day window, with reset countdown
-- **Usage analytics** — [describe what this actually shows: trend over days/weeks, per-model breakdown, burn-rate, etc.]
+- **Usage analytics** — It shows session consumption details, weekly consumption, and usage analytics dashboard available
 - Reads usage data the same way claude.ai's own Settings page does — no separate login, no API key
 - Works entirely in your browser
 
@@ -24,7 +26,7 @@ Most Claude usage extensions only show you a live snapshot — a bar that says h
 - No account, no API key, no sign-up
 - No analytics, telemetry, or third-party services
 - The extension reads usage data directly from claude.ai using your existing browser session — nothing is sent anywhere else
-- [Update this list to match your actual manifest permissions, e.g.: `storage` (saves your usage history locally), `https://claude.ai/*` (reads usage data)]
+- We do not save anything, everything happens locally
 
 All processing happens locally in your browser. Full source is in this repo — nothing here is happening that you can't read for yourself.
 
@@ -35,7 +37,7 @@ All processing happens locally in your browser. Full source is in this repo — 
 2. Click "Get"
 
 **Manual install (for development or before store approval)**
-1. Clone this repo: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git`
+1. Clone this repo: `git clone https://github.com/Tushar-Vishwakarma/Claude-Usage-Insights.git`
 2. Open `edge://extensions` (or `chrome://extensions`)
 3. Enable **Developer mode** (top right)
 4. Click **Load unpacked** and select the cloned folder
