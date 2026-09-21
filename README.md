@@ -32,7 +32,7 @@ All processing happens locally in your browser. Full source is in this repo — 
 ## Installation
 
 **From the Edge Add-ons store (recommended)**
-1. Go to [YOUR_EDGE_STORE_LINK_HERE]
+1. Go to https://microsoftedge.microsoft.com/addons/detail/claude-usage-insights/bofieddolapfocplbondjcfkgaofdalk
 2. Click "Get"
 
 **Manual install (for development or before store approval)**
